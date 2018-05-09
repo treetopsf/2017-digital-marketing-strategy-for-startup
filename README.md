@@ -1,1 +1,2 @@
 # digital-marketing-strategy-for-startup
+This project was for my digital marketing part-time course in General Assembly. I had created the dm strategy for a start-up company which allowed me to run Google Adwords and Paid social campaign by analyzing the result on Google Analytics. I had also used other tools to find keywords and edit email marketing. Throughout the project, I am able to help clients, especially who have zero knowledge about digital marketing and help them to test out who should they target and what should they improve on SEO.
